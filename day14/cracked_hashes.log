@@ -1,0 +1,9 @@
+# This file contains the results of the Day 14 offline password cracking task.
+# Target: cyberboy (user)
+# Method: John the Ripper dictionary attack
+# Timestamp: Thu Aug 20 2026
+
+cyberboy:password123
+
+# Verification: The password for user 'cyberboy' was successfully recovered
+# from the generated hash using the provided wordlist.
